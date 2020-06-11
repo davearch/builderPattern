@@ -1,0 +1,19 @@
+{
+    "name": "david/builder_pattern_php",
+    "description": "builder pattern in php",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "David Archuleta",
+            "email": "darchuletajr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
